@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Capitão America",
+        "description": "Soldado",
+        "especiality":{
+            "result1":"Combate",
+            "result2":"Escudo Vibranium"
+        },
+        "bg": "#185fe299",
+        "modified": "2020-04-04T19:01:59+0000",
+        "img": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087.jpg"
+        },
+    {
+        "id": 2,
+        "name": "Thor",
+        "description": "Nórdico",
+        "especiality":{
+            "result1":"Trovão",
+            "result2":"Martelo Milmir"
+        },
+        "bg": "#ff3b3b99",
+        "modified": "2020-03-11T10:18:57+0000",
+        "img": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350.jpg"
+        },
+    {
+        "id": 3,
+        "name": "Homem de Ferro",
+        "description": "Máquina",
+        "especiality":{
+            "result1":"Raios do Reator Ark",
+            "result2":"IA Jarvis"
+        },
+        "bg": "#ffd90099",
+        "modified": "2016-09-28T12:08:19+0000",
+        "img": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/527bb7b37ff55.jpg"
+        },
+    {
+        "id": 4,
+        "name": "Hulk",
+        "description": "Monstro",
+        "especiality":{
+            "result1":"Super Força",
+            "result2":"Esmaga"
+        },
+        "bg": "#00f93299",
+        "modified": "2020-07-21T10:35:15+0000",
+        "img": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Viúva Negra",
+        "description": "Espiã",
+        "especiality":{
+            "result1":"Combate",
+            "result2":"Armas de Raio"
+        },
+        "bg": "#ffb80099",
+        "modified": "2016-06-02T12:20:42+0000",
+        "img": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/50fecad1f395b.jpg"
+        },
+    {
+        "id": 6,
+        "name": "Gavião Arqueiro",
+        "description": "Arqueiro",
+         "especiality":{
+            "result1":"Arco e Flecha",
+            "result2":"Flechas Tecnológicas"
+        },
+        "bg": "#6464ff99",
+        "modified": "2016-06-22T12:53:31+0000",
+        "img": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/50fecaf4f101b.jpg"
+        }
+]
