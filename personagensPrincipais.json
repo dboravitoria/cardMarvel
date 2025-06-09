@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id":"001",
         "name": "Capitão America",
         "description": "Soldado",
         "especiality":{
@@ -12,7 +12,7 @@
         "img": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087.jpg"
         },
     {
-        "id": 2,
+        "id": "002",
         "name": "Thor",
         "description": "Nórdico",
         "especiality":{
@@ -24,7 +24,7 @@
         "img": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350.jpg"
         },
     {
-        "id": 3,
+        "id": "003",
         "name": "Homem de Ferro",
         "description": "Máquina",
         "especiality":{
@@ -36,7 +36,7 @@
         "img": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/527bb7b37ff55.jpg"
         },
     {
-        "id": 4,
+        "id":"004",
         "name": "Hulk",
         "description": "Monstro",
         "especiality":{
@@ -48,7 +48,7 @@
         "img": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0.jpg"
     },
     {
-        "id": 5,
+        "id": "005",
         "name": "Viúva Negra",
         "description": "Espiã",
         "especiality":{
@@ -60,7 +60,7 @@
         "img": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/50fecad1f395b.jpg"
         },
     {
-        "id": 6,
+        "id": "006",
         "name": "Gavião Arqueiro",
         "description": "Arqueiro",
          "especiality":{
@@ -70,5 +70,146 @@
         "bg": "#6464ff99",
         "modified": "2016-06-22T12:53:31+0000",
         "img": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/50fecaf4f101b.jpg"
+        },
+        {
+            "id": "007",
+            "name": "Bucky",
+            "description": "Soldado",
+            "especiality":{
+                "result1":"Combate",
+                "result2":"Braço de Vibranium"
+            },
+            "bg":"#185fe299",
+            "modified": "2016-04-11T14:23:39+0000",
+            "img":  "http://i.annihil.us/u/prod/marvel/i/mg/d/03/4dc8478464008.jpg"
+        },
+        {
+            "id": "008",
+            "name": "Falcão",
+            "description": "Soldado",
+            "especiality":{
+                "result1":"Combate Aereo",
+                "result2":"Asas Metálcas"
+            },
+            "bg":"#00f93299",
+            "modified": "2016-04-11T14:23:39+0000",
+            "img":  "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/5111505fb7009.jpg"
+        },
+        {
+            "id": "009",
+            "name": "Feiticeira Escarlate",
+            "description": "Feiticeira",
+            "especiality":{
+                "result1":"Magia E Gene X",
+                "result2":"Mutante"
+            },
+            "bg":"#ff3b3b99",
+            "modified": "2016-04-11T14:23:39+0000",
+            "img":  "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5261a7d7c394b.jpg"
+        },
+        {
+            "id": "010",
+            "name": "Doutor Estranho",
+            "description": "Mago",
+            "especiality":{
+                "result1":"Magia Ancestral",
+                "result2":"Olho de Agamoto"
+            },
+            "bg":"#ffb80099",
+            "modified": "2016-04-11T14:23:39+0000",
+            "img":  "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5261a85a501fe.jpg"
+        },
+        {
+            "id": "011",
+            "name": "Homem Formiga",
+            "description": "Cientista",
+            "especiality":{
+                "result1":"Diminui o Tamanho",
+                "result2":"Conversa com Formigas"
+            },
+            "bg":"#6464ff99",
+            "modified": "2016-04-11T14:23:39+0000",
+            "img":  "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5205305343bfd.jpg"
+        },
+        {
+            "id": "012",
+            "name": "Vespa",
+            "description": "Cientista",
+            "especiality":{
+                "result1":"Diminui o Tamanho",
+                "result2":"Voar"
+            },
+            "bg":"#ffd90099",
+            "modified": "2016-04-11T14:23:39+0000",
+            "img":  "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5390dfd5ef165.jpg"
+        },
+        {
+            "id": "013",
+            "name": "Capitã Marvel",
+            "description": "Pilota",
+            "especiality":{
+                "result1":"Poderes de Energia",
+                "result2":"Voar"
+            },
+            "bg":"#ff3b3b99",
+            "modified": "2016-04-11T14:23:39+0000",
+            "img":  "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5269608c1be7a.jpg"
+        },
+        {
+            "id": "014",
+            "name": "Pantera Negra",
+            "description": "Rei Wakandano",
+            "especiality":{
+                "result1":"Velocidade e Força aumentados",
+                "result2":"Traje de Vibranium"
+            },
+            "bg":"#185fe299",
+            "modified": "2016-04-11T14:23:39+0000",
+            "img":  "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5261a80a67e7d.jpg"
+        },
+        {
+            "id": "015",
+            "name": "Deadpool",
+            "description": "Mercenário",
+            "especiality":{
+                "result1":"Fator de Cura",
+                "result2":"Especialista em armas"
+            },
+            "bg":"#ffb80099",
+            "modified": "2016-04-11T14:23:39+0000",
+            "img":  "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5261a86cacb99.jpg"
+        },{
+            "id": "016",
+            "name": "Quarteto Fantástico",
+            "description": "Astronautas",
+            "especiality":{
+                "result1":"Família com Super Poderes",
+                "result2":"Elasticidade, Invisibilidade, Fogo e Homem de pedra"
+            },
+            "bg":"#6464ff99",
+            "modified": "2016-04-11T14:23:39+0000",
+            "img":  "http://i.annihil.us/u/prod/marvel/i/mg/9/60/50febc4f55525.jpg"
+        },{
+            "id": "017",
+            "name": "Guardiões da Galáxia",
+            "description": "Equipe",
+            "especiality":{
+                "result1":"Caçadores Intergaláticos",
+                "result2":"Humano, Gamora, Drax, Rocket, Groot e Mantis"
+            },
+            "bg":"#ffd90099",
+            "modified": "2016-04-11T14:23:39+0000",
+            "img":  "http://i.annihil.us/u/prod/marvel/i/mg/2/70/50febd8be6b5d.jpg"
+        },{
+            "id": "018",
+            "name": "X-Men",
+            "description": "Equipe",
+            "especiality":{
+                "result1":"Mutantes",
+                "result2":"Poderes Variados"
+            },
+            "bg":"#00f93299",
+            "modified": "2016-04-11T14:23:39+0000",
+            "img":  "http://i.annihil.us/u/prod/marvel/i/mg/8/03/510c08f345938.jpg"
         }
 ]
